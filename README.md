@@ -12,6 +12,7 @@ Completed Labs for Samuel Choi
 
 
 Final Project
+
 [Final Project](https://github.com/sgc87/Interactive-Lab-Hub/tree/master/Final%20Project)
 
 Samuel Choi was here
