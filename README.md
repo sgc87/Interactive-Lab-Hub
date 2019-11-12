@@ -10,4 +10,8 @@ Completed Labs for Samuel Choi
 6. [Samuel Choi Lab 6](https://github.com/sgc87/IDD-Fa19-Lab6/)
 7. [Samuel Choi Lab 7](https://github.com/sgc87/IDD-Fa19-Lab7/)
 
+
+Final Project
+[Final Project](https://github.com/sgc87/Interactive-Lab-Hub/tree/master/Final%20Project)
+
 Samuel Choi was here
