@@ -24,3 +24,8 @@ Motor Mounts
 
 ## Interaction Plan
 
+People will set a desired time through a phone app or through Alexa to have the toaster automatically toast bread for you. 
+
+## Prototype Fair
+
+![Sketch of Project](https://github.com/sgc87/Interactive-Lab-Hub/blob/master/Final%20Project/sketch.jpg)
