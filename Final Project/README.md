@@ -88,7 +88,7 @@ as the location to drill the screws to the platform.
 Despite creating the platform, the backboard still flexed a lot. So, a metal shelf bracket from Home Depot was purchased and 
 drilled to the backboard and the platform. This solved the issue of pushback from the arm/rack assembly. 
 
-![Shelf Bracket](https://www.homedepot.com/p/Everbilt-5-in-x-6-in-Gray-Shelf-Bracket-14815/202947664)
+[Shelf Bracket](https://www.homedepot.com/p/Everbilt-5-in-x-6-in-Gray-Shelf-Bracket-14815/202947664)
 
 The gear kept on unscrewing itself out whenever the arm/rack assembly it a dead end. This also caused some slippage. To fix this, 
 one of the black attachments had its arms and edges cut off so that the pinion could be glued to it and use its teeth to attach
@@ -159,4 +159,4 @@ The website uses coding blocks to program the app.
 
 Our toaster was able to successfully perform its task. Start toasting at a desired time by the user. The following video shows our toaster successfully working. 
 
-[Final Prototype Demo](https://www.youtube.com/watch?v=eiY0KqnON_c&feature=share&fbclid=IwAR2uKsBrZ4PwMvqTWdIXbnD-ZxMo3ypB7ZAv1ZyHFzL0bpkde3fHnVNIFWs)
+[Final Prototype Demo Video](https://www.youtube.com/watch?v=eiY0KqnON_c&feature=share&fbclid=IwAR2uKsBrZ4PwMvqTWdIXbnD-ZxMo3ypB7ZAv1ZyHFzL0bpkde3fHnVNIFWs)
